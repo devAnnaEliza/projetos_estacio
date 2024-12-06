@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "myapp",
+    "slug": "myapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "myapp/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./myapp/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C0D9AF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./myapp/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./myapp/assets/favicon.png"
+    }
+  }
+} 
