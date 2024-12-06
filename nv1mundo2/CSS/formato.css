@@ -1,0 +1,144 @@
+/*home*/ 
+head { 
+  margin-top: 0px; 
+} 
+
+header {
+   text-align: left;
+   background-color: #e9724d;
+   color: #683464;
+ }
+
+main {
+   text-align: center;
+ }
+
+h1 {
+   text-align: center;
+   margin-bottom: 30px;
+   color: #683464;
+ } 
+ 
+ p {
+   color: #683464;
+ }
+
+body {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   background-color: #E9724D;
+ }
+ 
+ .container {
+   max-width: 600px;
+   margin: 0 auto;
+ }
+ 
+ .links {
+   text-align: center;
+ }
+ 
+ .links a {
+   display: inline-block;
+   margin-right: 1px;
+   text-decoration: none;
+   color: #E9724D;
+   font-weight: bold;
+ }
+ 
+ footer {
+   text-align: center; 
+   background-color: #683464;
+   color: #e9724d;
+ }
+
+ p1 {
+   color: #e9724d;
+ }
+
+
+/*receitas*/
+body {
+    background-color: #E9724D;
+    color: #683464;
+  }
+
+  .card-deck{
+    margin-left: 200px;
+}
+
+.card{
+    width: 300px;
+    margin: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px #ffffff;
+}
+
+.recipe-image {
+    max-width: 10px; 
+    height: 50px; 
+    display: block; 
+    margin-bottom: 10px; 
+  }
+  
+.card-img-top{
+    max-width: 50%;
+    height: 50px;
+    object-fit: fill;
+}
+  
+  h1 {
+    color: #683464;
+  }
+  
+  ul {
+    list-style-type: square;
+    margin-left: 80px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+
+
+
+  
+/*cadastro*/ 
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #E9724D;
+  }
+  
+  .form-signup {
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #683464;
+    padding: 30px;
+    border: 10px solid #683464;
+    border-radius: 50px;
+  }
+  
+  .form-signup h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .form-row {
+    margin-bottom: 20px;
+  }
+  
+  .form-row .form-group {
+    margin-bottom: 0;
+  }
+  
